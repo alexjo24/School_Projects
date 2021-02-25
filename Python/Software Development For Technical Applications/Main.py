@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  3 10:41:44 2017
-
-@author: kajsa
-"""
 
 import sys
 
